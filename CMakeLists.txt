@@ -6,7 +6,8 @@ include_directories(include/)
 
 set(
   PROJECT_SOURCES
-  src/main.cc
+  main.cc
+  src/salsa.cc
 )
 
 set(
